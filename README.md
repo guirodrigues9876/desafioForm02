@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="timer project" src="./cover.png" width="100%">
+  <img alt="timer project" src="./image/cover.png" width="100%">
 </p>
 
 ## 🚀 Technologies
